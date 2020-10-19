@@ -1,0 +1,3 @@
+'this function return about college and Chair man'
+def college():
+    return "Vishnu Institute of Technology (VIT), established in 2008, is a technical college in Vishnupur, Andhra Pradesh|Vishnupur, Bhimavaram, West Godavari District, Andhra Pradesh, India. VIT is affiliated with Jawaharlal Nehru Technological University, Kakinada (JNTUK) and has All India Council for Technical Education approval. It is one of the many educational Institutes of the Sri Vishnu Educational Society. The chairman of Sri Vishnu Educational Society is Sri K. V. Vishnu Raju"
