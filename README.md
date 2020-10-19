@@ -1,5 +1,5 @@
 # collegechatbot
-A Chat bot which  explains a bout Vishnu Institute of Techology.
+A Chat bot which  explains the user about Vishnu Institute of Techology.
 
 ## Description
 It is a python Chatbot Which helps the user to know about the Vishnu Institue of Techology.
